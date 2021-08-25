@@ -1,5 +1,4 @@
-
-🙏 Namsate!
+### 🙏 Namsate!
 ### ![Kopal's Github stats](https://github-readme-stats.vercel.app/api?username=kopaldeep&count_private=true&theme=radical)
 
 
