@@ -1,4 +1,4 @@
-<h3>🙏 Namsate! <h3> 
+<h3>🙏 Namsate!</h3>
 ### ![Kopal's Github stats](https://github-readme-stats.vercel.app/api?username=kopaldeep&count_private=true&theme=radical)
 <!--
 **kopaldeep/kopaldeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
