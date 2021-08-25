@@ -1,6 +1,7 @@
+
 🙏 Namsate!
 ### ![Kopal's Github stats](https://github-readme-stats.vercel.app/api?username=kopaldeep&count_private=true&theme=radical)
-[![Header](https://raw.githubusercontent.com/kopaldeep/<OWNER>/<OWNER>/banner.png "Header")](https://sites.google.com/view/krastogi/)
+
 
 
 <!--
